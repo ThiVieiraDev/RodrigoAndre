@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(99, 98, 98);
+}
+
+.container {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.text {
+    font-size: 24px;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+
+.button-container {
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.button {
+    padding: 10px 20px;
+    margin: 0 10px;
+    font-size: 18px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button-yes {
+    background-color: green;
+}
+
+.button-no {
+    background-color: red;
+    position: absolute;
+}
+
+.hidden {
+    display: none;
+}
