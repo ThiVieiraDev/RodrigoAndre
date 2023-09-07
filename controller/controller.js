@@ -26,7 +26,7 @@ function disableButton(event) {
 function congratulate() {
     var textContainer = document.getElementById('text-container');
     var buttonContainer = document.getElementById('button-container');
-    textContainer.innerHTML = "<div class='text'>Uhuuuul, combinado então! <br>Dia 23/04 as 20h, o local você escolhe e me avisa. Até mais 🥰</div>";
+    textContainer.innerHTML = "<div class='text'>Com alegria e gratidão, celebro o nosso amor que agora é oficial. <br>Mal posso esperar para construir um futuro incrível juntos. <br>Te amo cada dia mais! 💖💍</div>";
     buttonContainer.classList.add('hidden');
 }
 
